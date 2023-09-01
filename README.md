@@ -11,4 +11,4 @@ Consultar o saldo de uma conta.
 ##  Conclusão 
 Este projeto de banco orientado a objetos em Python foi uma forma de aprender e praticar os conceitos fundamentais da orientação a objetos. Ao criar contas bancárias, realizar operações de depósito e saque, 
 e consultar saldos, para aprofundar meu entendimento desses conceitos de programação.
-Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco.
+Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
